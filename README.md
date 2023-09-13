@@ -37,9 +37,15 @@
       <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="Visual studio code" width="55" height="55"/> 
       <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="Opencv" width="45" height="55"/>
+
 </p>
 <h3> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> Working Projects:</h3>
 
   - 💻I’m currently working on [Dork] - A SaaS AI Platform with Next.js13, React, Tailwind, Prisma, Stripe (platform turns text into stunning images, code, music, and videos)
+  -  👨‍💻I have skillfully crafted the LabourMitra website using HTML, CSS, JavaScript, PHP server, and MySQL for database management. This platform serves as a direct link between skilled daily workers and customers.
+  - ✍🏻I've developed a real-time 'Virtual Drawing Board' using Python and OpenCV. It translates finger movements into instant sketches and text on your screen, redefining the way we draw and write.
+  - 
+
 
 
